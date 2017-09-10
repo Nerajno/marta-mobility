@@ -14,7 +14,7 @@ We are still working out the details, but anything in this repo that is not spec
 
 ## Acknowledgments
 Much of this particular implementation was written by Mark Noonan, but it draws on converstations, research, code, and other contributions from many others, without whom it would be very different (or indeed, wouldn't exist). A partial list include:
-- Darshan Gulur Srinivasa 
+- Darshan Gulur Srinivasa
 - Erick Garcia
 - Jared Saussy
 - Danny Alexander
@@ -26,3 +26,5 @@ Much of this particular implementation was written by Mark Noonan, but it draws 
 - Paris Walters
 - Itzcoatl Salazar
 - Roberto Cervantes
+
+<!-- Read Me raw format ==== https://raw.githubusercontent.com/lord/slate/master/README.md -->
